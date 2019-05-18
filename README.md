@@ -1,6 +1,6 @@
 ## Problem 1
 ### Users with reduced mobility have no access to live lift information for UK wide rail stations.
-The solution to this problem is discussed in the narration video in the root of this Repo. There is also a frontend in the folder.
+The solution to this problem is discussed in the narration video in the root of this Repo. There is also a frontend in the tfl dash folder.
 
 ## Problem 2
 ### Poor prioritisation of fixing lifts.
