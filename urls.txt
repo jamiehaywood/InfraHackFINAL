@@ -1,0 +1,2 @@
+https://unifiedliftapi.azurewebsites.net/api/stationSearch
+API endpoint
