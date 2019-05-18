@@ -1,0 +1,15 @@
+{
+  "name": "liftazurefunction",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
