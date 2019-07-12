@@ -7,12 +7,6 @@
 
 &nbsp;
 
-## Live Demo 
-http://jamiehaywood.com/InfraHackFINAL/
-
-<p align="center"><img src ="screenshots/dashboard.gif" /></p>
-&nbsp;
-
 ## The Problem: 
 Currently, users with reduced mobility have ***no access*** to life lift information for UK wide rail stations and Transport for London operated stations.  
 
@@ -32,6 +26,8 @@ Unfortunately, due to the nature of hackathons, we didn't have enough time to im
 &nbsp;
 
 ## Screenshots
+<p align="center"><img src ="screenshots/dashboard.gif" /></p>
+
 ![screenshot](screenshots/contractordash.png)
 
 #### Detecting people using the elevators and lifts
