@@ -3,7 +3,7 @@
 
 &nbsp;
 
-## <p align="center">🏆   Winners of [InfraHack 2019](http://infrahack.hackpartners.com/) winning both the Network Rail & TfL challenges   🏆</p>
+## <p align="center">🏆   Winners of [InfraHack 2019](http://infrahack.hackpartners.com/) winning Network Rail & TfL challenges   🏆</p>
 
 &nbsp;
 
