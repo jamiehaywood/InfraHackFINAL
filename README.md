@@ -13,12 +13,12 @@ Currently, users with reduced mobility have ***no access*** to live lift informa
 &nbsp;
 
 ## Our Solution: 
-We mapped a large amount of data from TfL and Network Rail spreadsheets and databases and created backend service to aggregate this data and serve it as a publicly accessible API endpoint. Alongside this, we explored the use of applied computer vision on real-time CCTV footage to detect when issues on the escalators and lifts occurred, and then display the results on a dashboard. We thought this could be particularly useful for customers with reduced mobility, who are reliant on the lifts being operational. It could also be useful for the maintainers, to understand which lifts are out of service and have the highest demand at present.
+We mapped a large amount of data from TfL and Network Rail spreadsheets and databases and created a backend service to aggregate this data and serve it as a publicly accessible API endpoint. Alongside this, we explored the use of applied computer vision on real-time CCTV footage to detect when issues on the escalators and lifts occurred, and then displaying the results on a dashboard. We thought this could be particularly useful for customers with reduced mobility, who are reliant on the lifts being operational. It could also be useful for the maintainers, to understand which lifts are out of service and have the highest demand at present.
 
 &nbsp;
 
 ## Future Ideas: 
-Unfortunately, due to the nature of hackathons, we didn't have enough time to implement our other ideas. Some things we considered for the future were:
+Unfortunately, due to the time restriction of hackathons, we didn't have enough time to implement our other ideas. Some things we considered for the future were:
 
 1.  Calculating the ***probability*** of lift failure, applying regressional techniques to historical data.
 2.  Giving customers alternative routes based on lift availability and routing from TfL.
