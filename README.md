@@ -8,7 +8,7 @@
 &nbsp;
 
 ## The Problem: 
-Currently, users with reduced mobility have ***no access*** to life lift information for UK wide rail stations and Transport for London operated stations.  
+Currently, users with reduced mobility have ***no access*** to live lift information for UK wide rail stations and Transport for London operated stations.  
 
 &nbsp;
 
